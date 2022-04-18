@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650306734 source:c:\repositorios\trainingc\exercicios_if_else\revisionforthetest_ex1\main.cpp
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
